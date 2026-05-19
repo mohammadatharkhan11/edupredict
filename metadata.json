@@ -1,0 +1,5 @@
+{
+  "name": "EduPredict",
+  "description": "Predict student academic success based on study habits, past failures, and current grades.",
+  "requestFramePermissions": []
+}
